@@ -1,9 +1,10 @@
 package delta
 
 import (
+	"testing"
+
 	"github.com/acernik/rha-file-differ/internal/adler32"
 	"github.com/acernik/rha-file-differ/internal/reader"
-	"testing"
 )
 
 func TestDiffer_CalculateDelta(t *testing.T) {
