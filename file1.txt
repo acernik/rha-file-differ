@@ -1,0 +1,1 @@
+This is the test input file nr.1 for the rolling hash based file diffing algorithm.
